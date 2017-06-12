@@ -5,9 +5,12 @@ public class login
         // Prints "Hello, World" to the terminal window.
         System.out.println("Hello, World");
         System.out.println("This is Uma Prakash!!!")
+
 //comment lline added
 //aded another comment line
-
+=======
+        System.out.println("This is Uma Prakash!!!")
+//merged the file
 }
 
 }
