@@ -8,9 +8,11 @@ public class login
 
 //comment lline added
 //aded another comment line
-=======
+
         System.out.println("This is Uma Prakash!!!")
 //merged the file
+ c = u + R
+
 }
 //we are now practising the git stash commands
 }
