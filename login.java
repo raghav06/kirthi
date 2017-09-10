@@ -13,6 +13,8 @@ public class login
 //merged the file
  c = u + R
 
+and also added this line to the file 
+
 }
 //we are now practising the git stash commands
 }
